@@ -3,12 +3,12 @@
 ## Tech Stack
 Temistocle/slate is built on the following main stack:
 
-- [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
-- [Ruby](https://www.ruby-lang.org) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Ruby](https://www.ruby-lang.org) – Languages
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -18,12 +18,12 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 Temistocle/slate is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/768/150px-Vagrant.png' alt='Vagrant'/> [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/768/150px-Vagrant.png' alt='Vagrant'/> [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Temistocle/slate](https://github.com/Temistocle/slate)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|14<br/>Tools used|01/05/24 <br/>Report generated|
+|14<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -125,7 +125,7 @@ Full tech stack [here](/techstack.md)
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[middleman](https://rubygems.org/middleman)|v4.4.2|06/18/21|Matthew Peveler |MIT|N/A|
-|[nokogiri](https://rubygems.org/nokogiri)|v1.13.4|03/23/22|dependabot[bot] |MIT|[CVE-2022-29181](https://github.com/advisories/GHSA-xh29-r2w5-wx8m) (High)<br/>[](https://github.com/advisories/GHSA-cgx6-hpwq-fhv5) (High)<br/>[](https://github.com/advisories/GHSA-pxvg-2qj5-37jq) (Moderate)<br/>[](https://github.com/advisories/GHSA-2qc6-mcvw-92cw) (Moderate)|
+|[nokogiri](https://rubygems.org/nokogiri)|v1.13.4|03/23/22|dependabot[bot] |MIT|[CVE-2022-29181](https://github.com/advisories/GHSA-xh29-r2w5-wx8m) (High)<br/>[](https://github.com/advisories/GHSA-cgx6-hpwq-fhv5) (High)<br/>[](https://github.com/advisories/GHSA-2qc6-mcvw-92cw) (Moderate)<br/>[](https://github.com/advisories/GHSA-xc9x-jj77-9p9j) (Moderate)<br/>[](https://github.com/advisories/GHSA-pxvg-2qj5-37jq) (Moderate)|
 |[redcarpet](https://rubygems.org/redcarpet)|v3.5.1|06/10/20|dependabot-preview[bot] |MIT|N/A|
 |[rouge](https://rubygems.org/rouge)|v3.28.0|07/31/20|dependabot-preview[bot] |MIT,BSD-2-Clause|N/A|
 |[sass](https://rubygems.org/sass)|v3.7.4|06/01/19|Robert Lord |MIT|N/A|
